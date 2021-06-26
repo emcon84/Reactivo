@@ -145,8 +145,8 @@
     </div>
 
     <div class="gallery">
-    <div class="container-md ">
-      <div class="row pt-5">
+    <div class="container-md p-5">
+      <div class="row pt-5">        
         <h1 class="text-center pb-5 pt-5 h1">Prototipado</h1>
       </div>
       <p class="text-center mb-3">Diseño de prototipos y templates con Adobe XD, para <span class="fw-bold">El portal de Formación </span>. Aplicacion responsive</p>
@@ -161,9 +161,18 @@
 
       <div class="row pt-5">
         <h1 class="text-center pb-5 pt-5 h1">Maquetación</h1>
+        <p class="text-center mb-3">Del diseño a la realidad con los Frameworks mas modernos <span class="fw-bold">Bootstrap, Tailwind, Chakra </span> </p>
+        <div class="col-lg-4  col-md-6 col-xs-12">          
+          <img class="m-5 rounded mx-auto d-block" src="./img/logoBoots.png" alt="" width="70%">
+        </div>
+        <div class="col-lg-4  col-md-6 col-xs-12">          
+          <img class="m-5 rounded mx-auto d-block" src="./img/logoTail.png" alt="" width="70%">
+        </div>
+        <div class="col-lg-4  col-md-6 col-xs-12">          
+          <img class="m-5 rounded mx-auto d-block" src="./img/logoChakra.png" alt="" width="70%">
+        </div>
       </div>
-      <p class="text-center mb-3">Del diseño a la realidad con los Frameworks mas modernos <span class="fw-bold">Bootstrap, Tailwind, Chakra </span> </p>
-      <img class="m-5 rounded mx-auto d-block" src="./img/logoCss.png" alt="" width="70%">
+      
       
     </div>
   </div>
